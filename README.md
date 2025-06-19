@@ -17,7 +17,8 @@ A lightweight, intelligent resume generation web application that uses Python an
 ## 🗂️ Project File Structure
 ** Smart_Budget_Tracker **
 ---
-smart_budget_tracker/  
+```
+ai_resume_builder/  
 ├── app/                       
 │   ├── __init__.py            
 │   ├── utils.py              
@@ -43,6 +44,7 @@ smart_budget_tracker/
 ├── LICENSE                    
 ├── .gitignore                 
 └── README.md 
+```
 ---
 
 
