@@ -1,4 +1,5 @@
 import os
 
 class Config:
-    SECRET_KEY = os.environ.get('SECRET_KEY') or 'you-will-never-guess'
+    SECRET_KEY = 'your-secret-key-here'
+    UPLOAD_FOLDER = os.path.join('app', 'static', 'uploads')
