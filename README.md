@@ -20,25 +20,26 @@ A lightweight, intelligent resume generation web application that uses Python an
 
 ai_resume_builder/
 ├── app/
-│ ├── static/
-│ │ ├── css/
-│ │ │ └── style.css
-│ │ └── js/
-│ │ └── script.js
-│ ├── templates/
-│ │ ├── base.html
-│ │ ├── index.html
-│ │ └── result.html
-│ ├── init.py
-│ ├── routes.py
-│ └── utils.py
+│   ├── static/
+│   │   ├── css/
+│   │   │   └── style.css
+│   │   └── js/
+│   │       └── script.js
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── index.html
+│   │   └── result.html
+│   ├── __init__.py
+│   ├── routes.py
+│   └── utils.py
 ├── instance/
-│ └── resume.db
+│   └── resume.db
 ├── config.py
 ├── run.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 
 ---
 
