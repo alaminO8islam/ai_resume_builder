@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Your Resume</h2>
+<p><strong>Name:</strong> {{ resume.name }}</p>
+<p><strong>Email:</strong> {{ resume.email }}</p>
+<p><strong>Skills:</strong></p>
+<ul>
+    {% for skill in resume.skills %}
+    <li>{{ skill }}</li>
+    {% endfor %}
+</ul>
+<a href="/" class="btn btn-secondary mt-3">Build Another</a>
+{% endblock %}
