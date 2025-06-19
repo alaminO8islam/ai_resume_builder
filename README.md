@@ -1,6 +1,26 @@
+<p align="center">
+  <img src="https://img.shields.io/github/stars/alaminO8islam/ai_resume_builder?style=flat-square">
+  <img src="https://img.shields.io/github/forks/alaminO8islam/ai_resume_builder?style=flat-square">
+  <img src="https://img.shields.io/github/watchers/alaminO8islam/ai_resume_builder?style=flat-square">
+  <img src="https://img.shields.io/github/issues/alaminO8islam/ai_resume_builder?style=flat-square">
+  <img src="https://img.shields.io/github/license/alaminO8islam/ai_resume_builder?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/alaminO8islam/ai_resume_builder?style=flat-square">
+</p>
+
 # 🧠 AI-Powered Resume Builder
 
 A lightweight, intelligent resume generation web application that uses Python and Flask to dynamically create a resume from user input. It features a clean UI powered by Bootstrap and can be extended with AI features in the future.
+
+---
+
+# 🧠 AI-Powered Resume Builder
+
+![GitHub stars](https://img.shields.io/github/stars/alaminO8islam/ai_resume_builder?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/alaminO8islam/ai_resume_builder?style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/alaminO8islam/ai_resume_builder?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/alaminO8islam/ai_resume_builder?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/alaminO8islam/ai_resume_builder?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/alaminO8islam/ai_resume_builder?style=flat-square)
 
 ---
 
