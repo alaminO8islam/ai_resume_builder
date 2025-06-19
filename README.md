@@ -22,7 +22,6 @@ A lightweight, intelligent resume generation web application that uses Python an
 ---
 
 ## 🗂️ Project File Structure
-** Smart_Budget_Tracker **
 ---
 ```
 ai_resume_builder/  
